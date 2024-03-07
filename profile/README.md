@@ -1,5 +1,7 @@
 # 🛒 Documentação do Processo de Marketplace - Store Impacta
 
+> **Nota**: Este é um projeto acadêmico desenvolvido para fins de aprendizado na faculdade. Todos os processos, links e imagens são parte de um cenário simulado e podem não refletir uma aplicação comercial real.
+
 Bem-vindo(a) à documentação do processo de compra da [Store Impacta](https://project-impacta.github.io/frontEnd-site/)! Aqui, vamos cobrir tudo o que você precisa saber para navegar no nosso sistema, desde o cadastro até a finalização da compra. 🚀
 
 ## 📑 Índice
