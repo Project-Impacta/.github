@@ -43,8 +43,8 @@ Já tem uma conta? Ótimo, vamos fazer login!
 graph LR;
     A[Tela Inicial] --> B[Tela de Login]
     B --> C[inserir cpf e senha]
-    C -->|Sim| D{login válido?}
-    D -->|sIM| F[Página inicial]
+    C --> D{login válido?}
+    D -->|Sim| F[Página inicial]
     D -->|Não| B
 ```
 
